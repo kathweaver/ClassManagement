@@ -1,0 +1,77 @@
+<html>
+<head>
+<title>Add Assignment</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../style.css" rel="stylesheet" type="text/css">
+<script language="Javascript1.2"><!-- // load htmlarea
+_editor_url = "/htmlarea/";                     // URL to htmlarea files
+var win_ie_ver = parseFloat(navigator.appVersion.split("MSIE")[1]);
+if (navigator.userAgent.indexOf('Mac')        >= 0) { win_ie_ver = 0; }
+if (navigator.userAgent.indexOf('Windows CE') >= 0) { win_ie_ver = 0; }
+if (navigator.userAgent.indexOf('Opera')      >= 0) { win_ie_ver = 0; }
+if (win_ie_ver >= 5.5) {
+  document.write('<scr' + 'ipt src="' +_editor_url+ 'editor.js"');
+  document.write(' language="Javascript1.2"></scr' + 'ipt>');  
+} else { document.write('<scr'+'ipt>function editor_generate() { return false; }</scr'+'ipt>'); }
+// --></script>
+</head>
+
+<body>
+<form name="form1" action="add_assignment.php" method=POST>
+  <p align="center">Add Assignment</p>
+  <table width="117%" border="0">
+    <tr> 
+      <td width="23%">Book</td>
+      <td width="77%"><input name="book" type="text" size="50"></td>
+    </tr>
+    <tr> 
+      <td>Lesson Name: </td>
+      <td><input name="name" type="text" size="50"></td>
+    </tr>
+    <tr> 
+      <td>Topic</td>
+      <td><input name="topic" type="text" id="topic" size="50" maxlength="50"></td>
+    </tr>
+    <tr> 
+      <td height="115">TEKS</td>
+      <td height><textarea name="TEKS" cols="80" rows="10"></textarea></td>
+	  	  <script language="javascript1.2">
+	editor_generate('TEKS');
+	</script>
+    </tr>
+    <tr> 
+
+      <td height="115">Instructions: </td>
+      <td><textarea name="instructions" cols="80" rows="10"></textarea></td>
+	  <script language="javascript1.2">
+	editor_generate('instructions');
+	</script>
+    </tr>
+    <tr> 
+      <td>URL Name: </td>
+      <td><input type="text"  size="50" name="URL_Name"></td>
+    </tr>
+    <tr> 
+      <td>URL: </td>
+      <td><input type="text"  size="100" name="URL"></td>
+    </tr>
+    <tr> 
+      <td>Textbook: </td>
+      <td><input type="text"  size="100" name="Textbook"></td>
+    </tr>
+     
+    <td>Turn In?</td>
+    <td><input name="TurnIn" type="checkbox" id="TurnIn"></td>
+    </tr>
+    <tr> 
+      <td>&nbsp;</td>
+      <td><input type="submit" name="submit" value="update"></td>
+    </tr>
+  </table>
+  <p>&nbsp; </p>
+  </form>
+
+  
+<a href="http://www.kweaver.net/class/main.php">Main Menu</a> 
+</body>
+</html>

@@ -1,0 +1,16 @@
+[06-Aug-2003 18:33:21] PHP Warning:  main(header.php): failed to open stream: No such file or directory in /home/kathweav/public_html/class/navigation/java_text.php on line 4
+[06-Aug-2003 18:33:21] PHP Warning:  main(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kathweav/public_html/class/navigation/java_text.php on line 4
+[06-Aug-2003 18:33:51] PHP Warning:  main(header.php): failed to open stream: No such file or directory in /home/kathweav/public_html/class/navigation/java_text.php on line 4
+[06-Aug-2003 18:33:51] PHP Warning:  main(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kathweav/public_html/class/navigation/java_text.php on line 4
+[06-Aug-2003 18:33:56] PHP Warning:  main(header.php): failed to open stream: No such file or directory in /home/kathweav/public_html/class/navigation/java_text.php on line 4
+[06-Aug-2003 18:33:56] PHP Warning:  main(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kathweav/public_html/class/navigation/java_text.php on line 4
+[06-Aug-2003 18:35:38] PHP Warning:  main(header.php): failed to open stream: No such file or directory in /home/kathweav/public_html/class/navigation/java_text.php on line 4
+[06-Aug-2003 18:35:38] PHP Warning:  main(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kathweav/public_html/class/navigation/java_text.php on line 4
+[17-Sep-2003 07:53:40] PHP Fatal error:  Cannot redeclare getfieldlist() (previously declared in /home/kathweav/public_html/class/navigation/list_announce.php:5) in /home/kathweav/public_html/class/navigation/list_announce.php on line 15
+[17-Sep-2003 07:57:17] PHP Parse error:  parse error in /home/kathweav/public_html/class/navigation/list_announce.php on line 12
+[17-Sep-2003 07:57:29] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/navigation/list_announce.php on line 10
+[17-Sep-2003 07:57:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/navigation/list_announce.php on line 10
+[17-Sep-2003 08:02:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/navigation/list_announce.php on line 10
+[19-Sep-2003 15:23:21] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/kathweav/public_html/class/navigation/list_announce.php:11) in /home/kathweav/public_html/class/assignments/list_user_assign.php on line 2
+[19-Sep-2003 15:23:21] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kathweav/public_html/class/navigation/list_announce.php:11) in /home/kathweav/public_html/class/assignments/list_user_assign.php on line 2
+[19-Sep-2003 15:23:21] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/assignments/list_user_assign.php on line 11

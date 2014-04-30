@@ -1,0 +1,57 @@
+BODY, html {
+	color: Red;
+	background-color: White;
+	font-family: Georgia, "Times New Roman", Times, serif;
+    margin:0;
+    padding:0;
+
+}
+body {
+    min-width:1500px;
+    }
+A {
+	color: FireBrick;
+}
+
+A:HOVER {
+	color: Black;
+}
+TR { 
+    text-align : left; 
+    background-color : #FFFFFF;     
+} 
+TD { 
+    font-family : Arial, verdana,Helvetica, sans-serif; 
+    font-size: 10pt; 
+    vertical-align : top; 
+    background-color : #FFFFFF;     
+} 
+TH { 
+    font-size: 10pt; 
+    background-color: #000000; 
+	font-color : $FF0000;
+    font-style : italic;     
+} 
+TH.TITLE { 
+    font-size: 11pt; 
+    background-color: #FF0000; 
+    font-style : normal; 
+	font-color : $FFFFFF;
+    text-align : center; 
+} 
+#main {
+    background:#FFFFFF;
+    margin:0 auto;
+    width:1500px;
+    }
+#calendar {	position: absolute;
+			left: 150px;
+		    padding: 0px;
+			width: 500px;
+}
+#list {
+  margin-left: 500px;
+  padding: 0px;
+  margin-right: 15px;
+}
+

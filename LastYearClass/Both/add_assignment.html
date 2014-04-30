@@ -1,0 +1,87 @@
+<html>
+<head>
+<title>Add Lesson</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<form name="form1" action="../Both/add_both.php" method=POST>
+  <p align="center">Add Assignment</p>
+  <table width="75%" border="0">
+    <tr> 
+      <td>Class</td>
+      <td><select name="class" size="1">
+          <option value="APCSI">APCSI</option>
+          <option value="APCSII">APCSII</option>
+          <option value="CSI">CSI</option>
+          <option value="PreAP">PreAP</option>
+          <option value="Webmastering">Webmastering</option>
+          <option value="BCIS">BCIS</option>
+        </select></td>
+    </tr>
+    <tr> 
+      <td>Six Weeks</td>
+      <td><input name="six_weeks" type="text" id="six_weeks" size="5" maxlength="1"></td>
+    </tr>
+    <tr> 
+      <td height="24">Day</td>
+      <td><input name="day" type="text" id="day" size="5" maxlength="2"></td>
+    </tr>
+    <tr> 
+      <td>Order</td>
+      <td><input name="dayorder" type="text" id="dayorder" size="5" maxlength="2"></td>
+    </tr>
+    <tr> 
+      <td>Due Date: </td>
+      <td><input type="text" name="duedate"></td>
+    </tr>
+    <tr> 
+      <td width="23%">Book</td>
+      <td width="77%"><input type="text" name="book"></td>
+    </tr>
+    <tr> 
+      <td>Lesson Name: </td>
+      <td><input type="text" name="name"></td>
+    </tr>
+    <tr> 
+      <td>Due Date: </td>
+      <td><input type="text" name="duedate"></td>
+    </tr>
+    <tr> 
+      <td>Topic</td>
+      <td><input name="topic" type="text" id="topic" maxlength="50"></td>
+    </tr>
+    <tr> 
+      <td>TEKS</td>
+      <td><input name="TEKS" type="text" id="TEKS" size="25" maxlength="50"></td>
+    </tr>
+    <tr> 
+      <td>Instructions: </td>
+      <td><input type="text"  size="100" name="instructions"></td>
+    </tr>
+    <tr> 
+      <td>URL Name: </td>
+      <td><input type="text"  size="50" name="URL_Name"></td>
+    </tr>
+    <tr> 
+      <td>URL: </td>
+      <td><input type="text"  size="100" name="URL"></td>
+    </tr>
+    <tr> 
+      <td>Textbook: </td>
+      <td><input type="text"  size="100" name="Textbook"></td>
+    </tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    </tr>
+    <tr> 
+      <td>&nbsp;</td>
+      <td><input type="submit" name="submit" value="update"></td>
+    </tr>
+  </table>
+  <p>&nbsp; </p>
+  </form>
+  <a href="http://www.kweaver.net/class/login_success.php">Main Menu</a>
+</body>
+</html>

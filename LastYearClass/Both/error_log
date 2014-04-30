@@ -1,0 +1,9 @@
+[25-Oct-2003 23:54:47] PHP Parse error:  parse error in /home/kathweav/public_html/class/Both/assignmentlist.php on line 125
+[25-Oct-2003 23:55:02] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Both/assignmentlist.php on line 97
+[25-Oct-2003 23:55:02] PHP Warning:  Division by zero in /home/kathweav/public_html/class/Both/assignmentlist.php on line 104
+[25-Oct-2003 23:55:02] PHP Warning:  Division by zero in /home/kathweav/public_html/class/Both/assignmentlist.php on line 106
+[25-Oct-2003 23:55:02] PHP Warning:  Division by zero in /home/kathweav/public_html/class/Both/assignmentlist.php on line 120
+[25-Oct-2003 23:55:22] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Both/assignmentlist.php on line 97
+[25-Oct-2003 23:55:22] PHP Warning:  Division by zero in /home/kathweav/public_html/class/Both/assignmentlist.php on line 104
+[25-Oct-2003 23:55:22] PHP Warning:  Division by zero in /home/kathweav/public_html/class/Both/assignmentlist.php on line 106
+[25-Oct-2003 23:55:22] PHP Warning:  Division by zero in /home/kathweav/public_html/class/Both/assignmentlist.php on line 120

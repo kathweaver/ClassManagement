@@ -1,0 +1,186 @@
+[09-Aug-2003 14:13:22] PHP Warning:  main(navigation.php): failed to open stream: No such file or directory in /home/kathweav/public_html/class/Lessons/add_lesson.php on line 53
+[09-Aug-2003 14:13:22] PHP Warning:  main(): Failed opening 'navigation.php' for inclusion (include_path='/home/kathweav/public_html/class') in /home/kathweav/public_html/class/Lessons/add_lesson.php on line 53
+[09-Aug-2003 15:26:48] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/footer.php on line 8
+[09-Aug-2003 15:26:57] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/footer.php on line 8
+[09-Aug-2003 15:27:05] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/footer.php on line 8
+[09-Aug-2003 15:27:07] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/footer.php on line 8
+[09-Aug-2003 15:27:16] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/footer.php on line 8
+[09-Aug-2003 15:27:18] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/footer.php on line 8
+[09-Aug-2003 15:29:08] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/footer.php on line 8
+[09-Aug-2003 15:29:13] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/footer.php on line 8
+[09-Aug-2003 15:29:19] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/footer.php on line 8
+[09-Aug-2003 15:29:22] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/Lessons/lessondetail.php on line 106
+[09-Aug-2003 15:29:33] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 54
+[09-Aug-2003 15:29:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kathweav/public_html/class/Lessons/lessonpost.php:54) in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 55
+[09-Aug-2003 15:29:55] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/footer.php on line 8
+[09-Aug-2003 15:30:24] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/footer.php on line 8
+[09-Aug-2003 15:30:31] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/footer.php on line 8
+[09-Aug-2003 15:30:39] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 54
+[09-Aug-2003 15:30:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kathweav/public_html/class/Lessons/lessonpost.php:54) in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 55
+[09-Aug-2003 15:31:10] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/kathweav/public_html/class/footer.php on line 8
+[09-Aug-2003 15:47:08] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 35
+[09-Aug-2003 15:47:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kathweav/public_html/class/Lessons/lessonpost.php:35) in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 56
+[09-Aug-2003 15:48:50] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 35
+[09-Aug-2003 15:48:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kathweav/public_html/class/Lessons/lessonpost.php:35) in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 56
+[09-Aug-2003 15:49:07] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 35
+[09-Aug-2003 15:49:07] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kathweav/public_html/class/Lessons/lessonpost.php:35) in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 56
+[09-Aug-2003 15:49:17] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 35
+[09-Aug-2003 15:49:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kathweav/public_html/class/Lessons/lessonpost.php:35) in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 56
+[09-Aug-2003 20:27:43] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/Lessons/lessonlist.php on line 78
+[03-Sep-2003 13:46:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 53
+[03-Sep-2003 13:46:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 54
+[03-Sep-2003 13:47:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 57
+[03-Sep-2003 13:47:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 57
+[03-Sep-2003 13:56:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[03-Sep-2003 13:57:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 69
+[03-Sep-2003 13:57:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 69
+[03-Sep-2003 13:57:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 69
+[03-Sep-2003 13:59:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 70
+[03-Sep-2003 13:59:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 70
+[03-Sep-2003 14:00:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 71
+[03-Sep-2003 14:00:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 71
+[03-Sep-2003 14:01:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 71
+[03-Sep-2003 14:01:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 71
+[03-Sep-2003 14:02:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 73
+[03-Sep-2003 14:02:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 73
+[03-Sep-2003 14:17:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 73
+[03-Sep-2003 14:17:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 73
+[03-Sep-2003 14:17:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 78
+[03-Sep-2003 14:17:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 78
+[03-Sep-2003 14:17:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 78
+[03-Sep-2003 14:18:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 79
+[03-Sep-2003 14:18:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 78
+[03-Sep-2003 14:19:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 78
+[03-Sep-2003 14:19:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 78
+[03-Sep-2003 14:19:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 78
+[03-Sep-2003 14:20:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 77
+[03-Sep-2003 14:36:01] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 77
+[03-Sep-2003 14:36:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 79
+[03-Sep-2003 14:38:21] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/multilessons.php on line 67
+[03-Sep-2003 14:38:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 77
+[03-Sep-2003 14:38:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 77
+[03-Sep-2003 14:39:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 77
+[03-Sep-2003 14:39:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 77
+[03-Sep-2003 14:41:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 78
+[03-Sep-2003 15:34:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 83
+[05-Sep-2003 10:00:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 83
+[16-Sep-2003 12:16:02] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[16-Sep-2003 12:16:02] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[16-Sep-2003 12:16:02] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[16-Sep-2003 12:16:46] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[16-Sep-2003 12:16:46] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[16-Sep-2003 12:16:46] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[16-Sep-2003 14:16:15] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[16-Sep-2003 14:16:15] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[16-Sep-2003 14:16:15] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[16-Sep-2003 14:29:40] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[16-Sep-2003 14:29:40] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[16-Sep-2003 14:29:40] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[16-Sep-2003 14:29:58] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[16-Sep-2003 14:29:58] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[16-Sep-2003 14:29:58] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[16-Sep-2003 14:30:06] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[16-Sep-2003 14:30:06] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[16-Sep-2003 14:30:06] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[16-Sep-2003 14:30:16] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[16-Sep-2003 14:30:16] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[16-Sep-2003 14:30:16] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[16-Sep-2003 14:32:15] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[16-Sep-2003 14:32:15] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[16-Sep-2003 14:32:15] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[16-Sep-2003 14:47:17] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 20
+[16-Sep-2003 14:47:17] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 21
+[16-Sep-2003 14:47:17] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 69
+[16-Sep-2003 14:47:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 78
+[16-Sep-2003 14:47:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 78
+[16-Sep-2003 16:00:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 79
+[16-Sep-2003 16:00:49] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 79
+[20-Sep-2003 06:35:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 79
+[23-Sep-2003 12:11:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 79
+[28-Sep-2003 17:28:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 79
+[28-Sep-2003 17:28:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 79
+[02-Oct-2003 11:59:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 79
+[14-Oct-2003 14:53:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 79
+[18-Oct-2003 16:44:05] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/lessonlist.php on line 34
+[18-Oct-2003 16:54:53] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/lessonlist.php on line 35
+[18-Oct-2003 16:56:00] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/lessonlist.php on line 32
+[18-Oct-2003 16:56:09] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/lessonlist.php on line 32
+[18-Oct-2003 16:56:12] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/lessonlist.php on line 32
+[18-Oct-2003 17:07:52] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/lessonlist.php on line 39
+[19-Oct-2003 03:27:38] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[19-Oct-2003 03:27:38] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[19-Oct-2003 03:27:38] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[20-Oct-2003 11:20:51] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[20-Oct-2003 11:20:51] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[20-Oct-2003 11:20:51] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[20-Oct-2003 11:24:04] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[20-Oct-2003 11:24:04] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[20-Oct-2003 11:24:04] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[20-Oct-2003 11:24:29] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[20-Oct-2003 11:24:29] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[20-Oct-2003 11:24:29] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[20-Oct-2003 11:28:31] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[20-Oct-2003 11:28:31] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[20-Oct-2003 11:28:31] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[20-Oct-2003 12:06:23] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[20-Oct-2003 12:06:23] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[20-Oct-2003 12:06:23] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[20-Oct-2003 12:13:13] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/multilessons.php on line 20
+[20-Oct-2003 12:13:13] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/multilessons.php on line 21
+[20-Oct-2003 12:13:13] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/multilessons.php on line 68
+[24-Oct-2003 10:13:28] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 20
+[24-Oct-2003 10:13:28] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 21
+[24-Oct-2003 10:13:28] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 70
+[24-Oct-2003 10:13:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 79
+[26-Oct-2003 00:19:34] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/lessonlist.php on line 70
+[26-Oct-2003 01:34:47] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 20
+[26-Oct-2003 01:34:47] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 21
+[26-Oct-2003 01:34:47] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 70
+[26-Oct-2003 01:34:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 79
+[26-Oct-2003 01:36:21] PHP Warning:  mysql_list_fields(): Unable to save MySQL query result in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 20
+[26-Oct-2003 01:36:21] PHP Warning:  mysql_num_fields(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 21
+[26-Oct-2003 01:36:21] PHP Warning:  Invalid argument supplied for foreach() in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 70
+[26-Oct-2003 01:39:02] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 67
+[26-Oct-2003 01:39:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 67
+[26-Oct-2003 01:40:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 66
+[26-Oct-2003 01:49:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 67
+[26-Oct-2003 10:36:52] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/add_lesson.php on line 46
+[26-Oct-2003 10:37:09] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/add_lesson.php on line 45
+[26-Oct-2003 10:37:12] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/add_lesson.php on line 45
+[26-Oct-2003 10:37:58] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/add_lesson.php on line 44
+[26-Oct-2003 10:38:34] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/add_lesson.php on line 95
+[26-Oct-2003 11:00:06] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/Lessons/add_lesson.php on line 37
+[26-Oct-2003 11:00:26] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/Lessons/add_lesson.php on line 63
+[26-Oct-2003 11:41:11] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/add_lesson.php on line 136
+[26-Oct-2003 18:24:45] PHP Parse error:  parse error, expecting `'('' in /home/kathweav/public_html/class/Lessons/lessondetail.php on line 35
+[26-Oct-2003 18:25:19] PHP Parse error:  parse error, expecting `'('' in /home/kathweav/public_html/class/Lessons/lessondetail.php on line 35
+[26-Oct-2003 19:04:11] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 46
+[27-Oct-2003 08:27:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 67
+[27-Oct-2003 11:36:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 67
+[27-Oct-2003 15:15:00] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `T_NUM_STRING' in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 46
+[27-Oct-2003 15:15:25] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `T_NUM_STRING' in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 46
+[27-Oct-2003 15:15:37] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `T_NUM_STRING' in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 46
+[27-Oct-2003 15:16:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kathweav/public_html/class/Lessons/lessonpost.php:45) in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 51
+[27-Oct-2003 15:17:12] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `T_NUM_STRING' in /home/kathweav/public_html/class/Lessons/lessonpost.php on line 47
+[28-Oct-2003 16:26:24] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `T_NUM_STRING' in /home/kathweav/public_html/class/Lessons/lessondetail.php on line 38
+[29-Oct-2003 12:56:10] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/lessondetail.php on line 77
+[29-Oct-2003 16:28:00] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/lessondetail1.php on line 71
+[29-Oct-2003 16:32:20] PHP Parse error:  parse error in /home/kathweav/public_html/class/Lessons/lessondetail1.php on line 88
+[12-Nov-2003 22:43:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 67
+[12-Nov-2003 22:44:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 67
+[20-Jan-2004 09:29:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 67
+[04-Feb-2004 12:57:13] PHP Parse error:  parse error, expecting `T_VARIABLE' or `'$'' in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 29
+[04-Feb-2004 14:57:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 67
+[04-Feb-2004 14:59:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 67
+[04-Feb-2004 14:59:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 67
+[04-Feb-2004 15:00:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 67
+[04-Feb-2004 15:48:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 68
+[06-Feb-2004 15:18:37] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/list_user_assign.php on line 43
+[06-Feb-2004 15:18:56] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/list_user_assign.php on line 43
+[06-Feb-2004 15:19:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/submissions/list_user_assign.php on line 42
+[06-Feb-2004 15:19:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/submissions/list_user_assign.php on line 41
+[06-Feb-2004 15:20:04] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/submissions/list_user_assign.php on line 42
+[06-Feb-2004 15:20:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/submissions/list_user_assign.php on line 42
+[06-Feb-2004 15:20:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/submissions/list_user_assign.php on line 42
+[06-Feb-2004 15:21:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/submissions/list_user_assign.php on line 42
+[29-Feb-2004 22:12:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/Lessons/rangelessons.php on line 66

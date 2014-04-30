@@ -1,0 +1,18 @@
+[06-Feb-2004 09:28:51] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/schedule.php on line 159
+[06-Feb-2004 09:28:51] PHP Fatal error:  Cannot instantiate non-existent class:  assignments in /home/kathweav/public_html/class/Due/listdue.php on line 17
+[06-Feb-2004 09:33:03] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/schedule.php on line 167
+[06-Feb-2004 09:33:03] PHP Fatal error:  Cannot instantiate non-existent class:  assignments in /home/kathweav/public_html/class/Due/listdue.php on line 18
+[06-Feb-2004 09:33:50] PHP Parse error:  parse error, expecting `T_STRING' or `T_VARIABLE' or `T_NUM_STRING' in /home/kathweav/public_html/class/schedule.php on line 165
+[06-Feb-2004 09:33:50] PHP Fatal error:  Cannot instantiate non-existent class:  assignments in /home/kathweav/public_html/class/Due/listdue.php on line 18
+[06-Feb-2004 14:08:25] PHP Fatal error:  Cannot redeclare class day_class in /home/kathweav/public_html/class/schedule.php on line 2
+[06-Feb-2004 14:08:48] PHP Fatal error:  Cannot redeclare class day_class in /home/kathweav/public_html/class/schedule.php on line 2
+[06-Feb-2004 14:09:04] PHP Fatal error:  Cannot redeclare class day_class in /home/kathweav/public_html/class/schedule.php on line 2
+[06-Feb-2004 14:09:35] PHP Parse error:  parse error in /home/kathweav/public_html/class/schedule.php on line 25
+[06-Feb-2004 14:09:35] PHP Fatal error:  Cannot instantiate non-existent class:  assignments in /home/kathweav/public_html/class/Due/listdue.php on line 18
+[06-Feb-2004 14:10:21] PHP Parse error:  parse error in /home/kathweav/public_html/class/Due/listdue.php on line 8
+[06-Feb-2004 14:10:35] PHP Fatal error:  Cannot redeclare class day_class in /home/kathweav/public_html/class/schedule.php on line 2
+[06-Feb-2004 14:11:26] PHP Fatal error:  Cannot redeclare class day_class in /home/kathweav/public_html/class/schedule.php on line 2
+[06-Feb-2004 14:12:03] PHP Fatal error:  Cannot redeclare class day_class in /home/kathweav/public_html/class/schedule.php on line 2
+[06-Feb-2004 14:12:34] PHP Fatal error:  Cannot redeclare class day_class in /home/kathweav/public_html/class/schedule.php on line 2
+[06-Feb-2004 14:13:59] PHP Fatal error:  Cannot redeclare class day_class in /home/kathweav/public_html/class/schedule.php on line 2
+[22-Feb-2004 22:22:01] PHP Parse error:  parse error in /home/kathweav/public_html/class/Due/listdue4.php on line 16

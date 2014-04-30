@@ -1,0 +1,40 @@
+[28-Nov-2003 23:20:44] PHP Parse error:  parse error in /home/kathweav/public_html/class/schedule.php on line 153
+[28-Nov-2003 23:21:29] PHP Parse error:  parse error in /home/kathweav/public_html/class/schedule.php on line 153
+[28-Nov-2003 23:22:08] PHP Parse error:  parse error, expecting `T_OLD_FUNCTION' or `T_FUNCTION' or `T_VAR' or `'}'' in /home/kathweav/public_html/class/schedule.php on line 148
+[28-Nov-2003 23:22:08] PHP Fatal error:  Cannot instantiate non-existent class:  assignments in /home/kathweav/public_html/class/sixweeks.php on line 16
+[28-Nov-2003 23:24:56] PHP Parse error:  parse error, expecting `'('' in /home/kathweav/public_html/class/schedule.php on line 104
+[28-Nov-2003 23:24:56] PHP Fatal error:  Cannot instantiate non-existent class:  assignments in /home/kathweav/public_html/class/sixweeks.php on line 16
+[16-Dec-2003 12:08:41] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kathweav/public_html/class/schedule.php on line 8
+[16-Dec-2003 12:10:56] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kathweav/public_html/class/schedule.php on line 8
+[16-Dec-2003 12:13:06] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kathweav/public_html/class/schedule.php on line 8
+[28-Dec-2003 20:08:13] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kathweav/public_html/class/sixweeks.php on line 29
+[28-Dec-2003 22:29:26] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kathweav/public_html/class/sixweeks.php on line 27
+[28-Dec-2003 22:33:31] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kathweav/public_html/class/schedule.php on line 8
+[06-Feb-2004 14:09:39] PHP Parse error:  parse error in /home/kathweav/public_html/class/schedule.php on line 25
+[06-Feb-2004 14:09:39] PHP Fatal error:  Cannot instantiate non-existent class:  assignments in /home/kathweav/public_html/class/cal.php on line 153
+[06-Feb-2004 14:09:45] PHP Parse error:  parse error in /home/kathweav/public_html/class/schedule.php on line 25
+[06-Feb-2004 14:09:45] PHP Fatal error:  Cannot instantiate non-existent class:  assignments in /home/kathweav/public_html/class/cal.php on line 153
+[06-Feb-2004 14:09:55] PHP Parse error:  parse error in /home/kathweav/public_html/class/schedule.php on line 25
+[06-Feb-2004 14:09:55] PHP Fatal error:  Cannot instantiate non-existent class:  assignments in /home/kathweav/public_html/class/cal.php on line 153
+[09-Feb-2004 10:04:22] PHP Fatal error:  Cannot instantiate non-existent class:  day_class in /home/kathweav/public_html/class/cal.php on line 147
+[09-Feb-2004 10:05:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/schedule.php on line 49
+[09-Feb-2004 10:05:57] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/schedule.php on line 97
+[09-Feb-2004 10:05:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/schedule.php on line 49
+[09-Feb-2004 10:05:57] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/schedule.php on line 97
+[09-Feb-2004 10:05:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/schedule.php on line 49
+[09-Feb-2004 10:05:57] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/schedule.php on line 97
+[09-Feb-2004 10:05:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/schedule.php on line 49
+[09-Feb-2004 10:05:57] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/schedule.php on line 97
+[09-Feb-2004 10:05:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/schedule.php on line 49
+[09-Feb-2004 10:05:57] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/schedule.php on line 97
+[09-Feb-2004 10:05:57] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/schedule.php on line 49
+[09-Feb-2004 10:05:57] PHP Warning:  mysql_free_result(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/schedule.php on line 97
+[16-Mar-2004 10:05:51] PHP Fatal error:  Cannot redeclare last_history_index() (previously declared in /home/kathweav/public_html/class/setback.php:4) in /home/kathweav/public_html/class/setback.php on line 2
+[16-Mar-2004 15:12:04] PHP Fatal error:  Cannot redeclare last_history_index() (previously declared in /home/kathweav/public_html/class/setback.php:4) in /home/kathweav/public_html/class/setback.php on line 2
+[17-Mar-2004 10:49:21] PHP Fatal error:  Cannot redeclare last_history_index() (previously declared in /home/kathweav/public_html/class/setback.php:4) in /home/kathweav/public_html/class/setback.php on line 2
+[17-Mar-2004 17:50:12] PHP Fatal error:  Cannot redeclare last_history_index() (previously declared in /home/kathweav/public_html/class/setback.php:4) in /home/kathweav/public_html/class/setback.php on line 2
+[17-Mar-2004 22:44:57] PHP Fatal error:  Cannot redeclare last_history_index() (previously declared in /home/kathweav/public_html/class/setback.php:4) in /home/kathweav/public_html/class/setback.php on line 2
+[17-Mar-2004 22:45:10] PHP Fatal error:  Cannot redeclare last_history_index() (previously declared in /home/kathweav/public_html/class/setback.php:4) in /home/kathweav/public_html/class/setback.php on line 2
+[17-Mar-2004 22:46:43] PHP Fatal error:  Cannot redeclare last_history_index() (previously declared in /home/kathweav/public_html/class/setback.php:4) in /home/kathweav/public_html/class/setback.php on line 2
+[17-Mar-2004 22:46:47] PHP Fatal error:  Cannot redeclare last_history_index() (previously declared in /home/kathweav/public_html/class/setback.php:4) in /home/kathweav/public_html/class/setback.php on line 2
+[17-Mar-2004 22:47:01] PHP Fatal error:  Cannot redeclare last_history_index() (previously declared in /home/kathweav/public_html/class/setback.php:4) in /home/kathweav/public_html/class/setback.php on line 2

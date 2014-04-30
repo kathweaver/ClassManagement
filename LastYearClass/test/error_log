@@ -1,0 +1,14 @@
+[29-Oct-2003 14:34:06] PHP Warning:  opendir(../style): failed to open dir: No such file or directory in /home/kathweav/public_html/class/test/test1.php on line 6
+[29-Oct-2003 14:34:06] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/test/test1.php on line 7
+[29-Oct-2003 14:34:06] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/test/test1.php on line 14
+[11-Feb-2004 14:43:33] PHP Parse error:  parse error in /home/kathweav/public_html/class/test/calendar.php on line 170
+[11-Feb-2004 14:46:21] PHP Parse error:  parse error in /home/kathweav/public_html/class/test/calendar.php on line 170
+[11-Feb-2004 14:46:59] PHP Parse error:  parse error in /home/kathweav/public_html/class/test/calendar.php on line 170
+[11-Feb-2004 15:41:16] PHP Parse error:  parse error in /home/kathweav/public_html/class/test/calendar.php on line 170
+[11-Feb-2004 15:42:07] PHP Parse error:  parse error in /home/kathweav/public_html/class/test/calendar.php on line 172
+[11-Feb-2004 15:42:27] PHP Parse error:  parse error in /home/kathweav/public_html/class/test/calendar.php on line 172
+[11-Feb-2004 15:42:52] PHP Parse error:  parse error in /home/kathweav/public_html/class/test/calendar.php on line 173
+[11-Feb-2004 15:43:03] PHP Parse error:  parse error in /home/kathweav/public_html/class/test/calendar.php on line 178
+[12-Feb-2004 09:16:50] PHP Parse error:  parse error in /home/kathweav/public_html/class/test/test1.php on line 2
+[12-Feb-2004 09:17:08] PHP Parse error:  parse error in /home/kathweav/public_html/class/test/test1.php on line 2
+[12-Feb-2004 09:17:17] PHP Parse error:  parse error in /home/kathweav/public_html/class/test/test1.php on line 2

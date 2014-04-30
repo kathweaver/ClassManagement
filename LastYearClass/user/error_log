@@ -1,0 +1,7 @@
+[28-Oct-2003 13:50:35] PHP Warning:  Unknown(): write failed: No space left on device (28) in Unknown on line 0
+[28-Oct-2003 13:50:35] PHP Warning:  Unknown(): Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[28-Oct-2003 13:51:08] PHP Warning:  Unknown(): write failed: No space left on device (28) in Unknown on line 0
+[28-Oct-2003 13:51:08] PHP Warning:  Unknown(): Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[28-Oct-2003 13:51:21] PHP Warning:  Unknown(): write failed: No space left on device (28) in Unknown on line 0
+[28-Oct-2003 13:51:21] PHP Warning:  Unknown(): Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[11-Nov-2003 14:33:07] PHP Warning:  main(): stream does not support seeking in /home/kathweav/public_html/class/user/change_psw.php on line 68

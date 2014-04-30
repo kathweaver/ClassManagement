@@ -1,0 +1,736 @@
+[25-Aug-2003 07:32:47] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/assignments/grade_assign.php on line 39
+[25-Aug-2003 07:33:12] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/assignments/grade_assign.php on line 42
+[25-Aug-2003 07:45:39] PHP Warning:  main(list_tacher_record.php): failed to open stream: No such file or directory in /home/kathweav/public_html/class/assignments/record_assign.php on line 22
+[25-Aug-2003 07:45:39] PHP Warning:  main(): Failed opening 'list_tacher_record.php' for inclusion (include_path='/home/kathweav/public_html/class') in /home/kathweav/public_html/class/assignments/record_assign.php on line 22
+[25-Aug-2003 11:14:03] PHP Warning:  move_uploaded_file(/home/kathweav/files/baumannc/Work Folder/Ex02_01.doc): failed to open stream: No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[25-Aug-2003 11:14:03] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpLkvalr' to '/home/kathweav/files/baumannc/Work Folder/Ex02_01.doc' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[25-Aug-2003 20:53:23] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 51
+[25-Aug-2003 20:55:39] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 51
+[25-Aug-2003 20:55:48] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 51
+[25-Aug-2003 20:55:51] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 51
+[26-Aug-2003 10:07:08] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/assignment3.html): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[26-Aug-2003 10:07:08] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKaKcI8' to '/home/kathweav/files/weaverm/assignment3.html' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[26-Aug-2003 11:51:28] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/assignment3.html): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[26-Aug-2003 11:51:28] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5gNQki' to '/home/kathweav/files/weaverm/assignment3.html' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[26-Aug-2003 22:27:54] PHP Warning:  mysql_query(): Access denied for user: 'kathweav@localhost' (Using password: NO) in /home/kathweav/public_html/class/assignments/list_summary.php on line 4
+[26-Aug-2003 22:27:54] PHP Warning:  mysql_query(): A link to the server could not be established in /home/kathweav/public_html/class/assignments/list_summary.php on line 4
+[26-Aug-2003 22:27:54] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/assignments/list_summary.php on line 5
+[26-Aug-2003 23:00:06] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/record_assign.php on line 33
+[26-Aug-2003 23:00:21] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/record_assign.php on line 52
+[28-Aug-2003 10:02:49] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/assignment3.html): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[28-Aug-2003 10:02:49] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpn0eKXv' to '/home/kathweav/files/weaverm/assignment3.html' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[28-Aug-2003 15:12:08] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:12:21] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:12:22] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:12:23] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:12:39] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:19:32] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:19:33] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:19:34] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:19:34] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:19:35] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:19:36] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:19:37] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:19:38] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:19:40] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:19:49] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:20:11] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:20:12] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:20:38] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:20:39] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:20:55] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[28-Aug-2003 15:20:56] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 16
+[03-Sep-2003 10:56:06] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/Exercise 2-1.doc): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[03-Sep-2003 10:56:06] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWjL8WN' to '/home/kathweav/files/weaverm/Exercise 2-1.doc' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[03-Sep-2003 20:38:55] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_grade.php on line 14
+[03-Sep-2003 20:39:20] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_grade.php on line 13
+[03-Sep-2003 20:40:31] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_grade.php on line 13
+[03-Sep-2003 20:40:32] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_grade.php on line 13
+[03-Sep-2003 20:42:45] PHP Parse error:  parse error in /home/kathweav/public_html/class/assignments/list_teacher_record.php on line 14
+[05-Sep-2003 11:07:52] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/Lab0280.java): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[05-Sep-2003 11:07:53] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPla2d9' to '/home/kathweav/files/weaverm/Lab0280.java' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[05-Sep-2003 11:08:10] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/Lab0280.java): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[05-Sep-2003 11:08:10] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHewhDK' to '/home/kathweav/files/weaverm/Lab0280.java' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[07-Sep-2003 21:49:17] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/pump.sxw): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[07-Sep-2003 21:49:17] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php77IYFB' to '/home/kathweav/files/weaverm/pump.sxw' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[07-Sep-2003 21:52:19] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/pump.sxw): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[07-Sep-2003 21:52:19] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php4wMgda' to '/home/kathweav/files/weaverm/pump.sxw' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[07-Sep-2003 21:56:46] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/aquafish.cpp): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[07-Sep-2003 21:56:46] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoIE4y1' to '/home/kathweav/files/weaverm/aquafish.cpp' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 447
+[07-Sep-2003 22:06:59] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/RESUME.doc): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 448
+[07-Sep-2003 22:06:59] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvZkVZv' to '/home/kathweav/files/weaverm/RESUME.doc' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 448
+[07-Sep-2003 22:07:31] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/midterm_review.doc): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 448
+[07-Sep-2003 22:07:31] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpR2dGk2' to '/home/kathweav/files/weaverm/midterm_review.doc' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 448
+[07-Sep-2003 22:09:29] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/midterm_review.doc): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 448
+[07-Sep-2003 22:09:29] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYBZrzR' to '/home/kathweav/files/weaverm/midterm_review.doc' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 448
+[07-Sep-2003 22:10:44] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/search.doc): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 451
+[07-Sep-2003 22:10:44] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTcs6PW' to '/home/kathweav/files/weaverm/search.doc' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 451
+[07-Sep-2003 22:11:42] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/Search Summary.doc): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 451
+[07-Sep-2003 22:11:42] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9jsy0Y' to '/home/kathweav/files/weaverm/Search Summary.doc' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 451
+[07-Sep-2003 22:20:21] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/midterm_review.doc): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 451
+[07-Sep-2003 22:20:21] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeppgNp' to '/home/kathweav/files/weaverm/midterm_review.doc' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 451
+[07-Sep-2003 22:22:26] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/Vocabulary.doc): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 451
+[07-Sep-2003 22:22:26] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php44rHal' to '/home/kathweav/files/weaverm/Vocabulary.doc' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 451
+[07-Sep-2003 22:23:23] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/Vocabulary.doc): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 451
+[07-Sep-2003 22:23:23] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKurDmB' to '/home/kathweav/files/weaverm/Vocabulary.doc' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 451
+[07-Sep-2003 22:28:54] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/Java0101.java): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 451
+[07-Sep-2003 22:28:54] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpwSQDIV' to '/home/kathweav/files/weaverm/Java0101.java' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 451
+[07-Sep-2003 22:35:30] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Sep-2003 22:35:31] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Sep-2003 22:35:31] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 415
+[07-Sep-2003 22:35:31] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/TrivialApplication.java): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 449
+[07-Sep-2003 22:35:31] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpLYvUxE' to '/home/kathweav/files/weaverm/TrivialApplication.java' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 449
+[07-Sep-2003 22:35:31] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Sep-2003 22:35:31] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 415
+[07-Sep-2003 22:35:31] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Sep-2003 22:35:31] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 415
+[07-Sep-2003 22:35:31] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Sep-2003 22:35:31] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 415
+[07-Sep-2003 22:35:31] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Sep-2003 22:35:31] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 415
+[07-Sep-2003 22:37:22] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Sep-2003 22:37:22] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Sep-2003 22:37:22] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 415
+[07-Sep-2003 22:37:22] PHP Warning:  move_uploaded_file(/home/kathweav/files/weaverm/Java0101.java): failed to open stream: Permission denied in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 449
+[07-Sep-2003 22:37:22] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9FSJCI' to '/home/kathweav/files/weaverm/Java0101.java' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 449
+[07-Sep-2003 22:37:22] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Sep-2003 22:37:22] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 415
+[07-Sep-2003 22:37:22] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Sep-2003 22:37:22] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 415
+[07-Sep-2003 22:37:22] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Sep-2003 22:37:22] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 415
+[07-Sep-2003 22:37:22] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Sep-2003 22:37:22] PHP Warning:  chmod(): Operation not permitted in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 415
+[07-Sep-2003 22:49:47] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 09:44:04] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 09:49:06] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 09:54:24] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 10:11:49] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 10:25:09] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 10:27:16] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 10:31:20] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 10:32:10] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 10:33:18] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 10:35:24] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 10:35:25] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 11:04:59] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 11:05:33] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 11:12:11] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 11:13:54] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 11:14:29] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 11:16:16] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 11:21:31] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 11:23:43] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 11:27:36] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 11:29:00] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 11:32:23] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 11:33:04] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 12:11:15] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 12:15:10] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 12:51:16] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 13:38:19] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 15:32:21] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Sep-2003 15:39:05] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 09:57:57] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 10:12:17] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 10:14:33] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 10:21:05] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 10:27:04] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 10:28:38] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 10:28:40] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 10:31:50] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 10:34:00] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 10:36:36] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 11:02:32] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 11:09:13] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 11:09:47] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 11:09:53] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 11:29:44] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 12:05:42] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 12:10:46] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 12:18:24] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 12:21:28] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 12:24:11] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 12:26:43] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 13:23:54] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 13:32:41] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 13:33:12] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 13:43:46] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 13:56:07] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 13:57:10] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 14:01:52] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 14:03:52] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 15:33:47] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 15:38:47] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 15:44:54] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Sep-2003 15:50:45] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 10:07:10] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 10:07:51] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 10:24:14] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 10:29:40] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 11:20:07] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 11:25:45] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 11:26:39] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 12:17:38] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 12:20:22] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 13:34:45] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 13:35:12] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/assignments/list_all_recorded.php on line 12
+[10-Sep-2003 13:35:30] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 13:39:30] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 15:30:35] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 15:36:29] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 15:46:57] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 15:48:28] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[10-Sep-2003 15:49:43] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[11-Sep-2003 15:51:36] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[12-Sep-2003 11:57:35] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[15-Sep-2003 11:17:20] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[15-Sep-2003 15:22:13] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[15-Sep-2003 15:39:37] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[16-Sep-2003 10:33:21] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[17-Sep-2003 11:28:43] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[17-Sep-2003 14:04:56] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/assignments/list_all_recorded.php on line 11
+[17-Sep-2003 14:05:15] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/assignments/list_all_recorded.php on line 11
+[20-Sep-2003 09:58:31] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/assignments/list_user_assign.php on line 11
+[22-Sep-2003 10:16:02] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[22-Sep-2003 12:20:13] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[25-Sep-2003 10:59:47] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[25-Sep-2003 11:30:52] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[29-Sep-2003 16:57:54] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[03-Oct-2003 11:04:08] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/assignments/list_old_recorded.php on line 15
+[06-Oct-2003 12:21:09] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\terrance.psd] not saved in Unknown on line 0
+[07-Oct-2003 12:25:24] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\terrance.psd] not saved in Unknown on line 0
+[07-Oct-2003 14:26:27] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:27:29] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:28:10] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:28:13] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:28:37] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:29:15] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:29:30] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:29:41] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:29:45] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:29:50] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:33:42] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:35:49] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:35:49] PHP Warning:  move_uploaded_file(/home/kathweav/upload/MedinaA/H;/Spllword.doc): failed to open stream: No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 449
+[07-Oct-2003 14:35:49] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuX5RIe' to '/home/kathweav/upload/MedinaA/H;/Spllword.doc' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 449
+[07-Oct-2003 14:35:49] PHP Warning:  move_uploaded_file(/home/kathweav/upload/MedinaA/H;/spllword.doc): failed to open stream: No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 449
+[07-Oct-2003 14:35:49] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphKBiof' to '/home/kathweav/upload/MedinaA/H;/spllword.doc' in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 449
+[07-Oct-2003 14:36:02] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:36:05] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:36:09] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:38:14] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:40:50] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[07-Oct-2003 14:41:00] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Oct-2003 13:59:41] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Oct-2003 14:23:38] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Oct-2003 14:44:41] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Oct-2003 15:30:34] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[08-Oct-2003 15:40:11] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Oct-2003 10:17:16] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/header.php on line 7
+[09-Oct-2003 11:54:08] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[09-Oct-2003 12:34:26] PHP Parse error:  parse error in /home/kathweav/public_html/class/header.php on line 8
+[09-Oct-2003 12:34:41] PHP Parse error:  parse error in /home/kathweav/public_html/class/header.php on line 8
+[09-Oct-2003 12:35:12] PHP Parse error:  parse error in /home/kathweav/public_html/class/header.php on line 8
+[09-Oct-2003 12:35:27] PHP Parse error:  parse error in /home/kathweav/public_html/class/header.php on line 8
+[09-Oct-2003 15:44:55] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/assignments/class_upload_files.php on line 382
+[20-Oct-2003 12:01:43] PHP Warning:  session_start(): open(/tmp/sess_4338e1d16589500a5f622ee30cbb89b6, O_RDWR) failed: Permission denied (13) in /home/kathweav/public_html/class/submissions/upload_assignment.php on line 2
+[20-Oct-2003 12:01:44] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kathweav/public_html/class/submissions/upload_assignment.php:2) in /home/kathweav/public_html/class/submissions/upload_assignment.php on line 2
+[20-Oct-2003 12:01:44] PHP Warning:  Unknown(): open(/tmp/sess_4338e1d16589500a5f622ee30cbb89b6, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[20-Oct-2003 12:01:44] PHP Warning:  Unknown(): Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[20-Oct-2003 12:06:07] PHP Warning:  session_start(): open(/tmp/sess_e055671ff098a9c0f15f3c639022237f, O_RDWR) failed: Permission denied (13) in /home/kathweav/public_html/class/submissions/upload_assignment.php on line 2
+[20-Oct-2003 12:06:07] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kathweav/public_html/class/submissions/upload_assignment.php:2) in /home/kathweav/public_html/class/submissions/upload_assignment.php on line 2
+[20-Oct-2003 12:06:07] PHP Warning:  Unknown(): open(/tmp/sess_e055671ff098a9c0f15f3c639022237f, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[20-Oct-2003 12:06:07] PHP Warning:  Unknown(): Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[20-Oct-2003 15:44:42] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[21-Oct-2003 10:56:19] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/submit_assignment.php on line 2
+[21-Oct-2003 10:59:02] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/submissions/submit_assignment.php on line 18
+[21-Oct-2003 11:03:12] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/submit_assignment.php on line 74
+[22-Oct-2003 13:58:53] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[24-Oct-2003 14:14:22] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[25-Oct-2003 20:21:04] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[25-Oct-2003 20:34:13] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/update_grade.php on line 12
+[29-Oct-2003 09:52:10] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:03:34] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:08:23] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:08:33] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:10:11] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:11:05] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:13:16] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:16:49] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:19:44] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:22:42] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:25:01] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:29:07] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:30:00] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:33:23] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:46:10] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 10:49:15] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 11:09:56] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 11:52:01] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 11:53:10] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 11:53:37] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 11:58:31] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 11:59:28] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 12:03:11] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 12:03:58] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 12:04:02] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 12:10:48] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 12:12:33] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 12:24:36] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 13:38:42] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 14:11:06] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 14:20:30] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 14:53:24] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 14:54:23] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 14:57:27] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 15:23:46] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 15:29:08] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 15:31:37] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 15:37:01] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[29-Oct-2003 15:51:41] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[30-Oct-2003 10:06:56] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[30-Oct-2003 10:58:18] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[30-Oct-2003 11:03:14] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[30-Oct-2003 11:21:17] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[31-Oct-2003 10:05:36] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[31-Oct-2003 10:18:20] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[31-Oct-2003 10:22:38] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[31-Oct-2003 14:22:16] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[03-Nov-2003 09:46:24] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[03-Nov-2003 10:04:40] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[03-Nov-2003 11:15:27] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[03-Nov-2003 11:17:33] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[03-Nov-2003 11:26:34] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[03-Nov-2003 13:38:32] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[03-Nov-2003 13:48:16] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[03-Nov-2003 13:53:26] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[03-Nov-2003 14:00:32] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[03-Nov-2003 15:48:07] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[04-Nov-2003 10:26:37] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[04-Nov-2003 10:49:33] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[04-Nov-2003 10:49:36] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[04-Nov-2003 10:59:11] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[04-Nov-2003 11:01:07] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[04-Nov-2003 11:10:11] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[04-Nov-2003 15:35:10] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[04-Nov-2003 15:53:21] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[05-Nov-2003 10:44:25] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[05-Nov-2003 14:15:59] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[05-Nov-2003 14:53:34] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[05-Nov-2003 15:50:50] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Nov-2003 12:15:16] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Nov-2003 13:49:50] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Nov-2003 15:46:29] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Nov-2003 10:21:13] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[10-Nov-2003 14:43:51] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[13-Nov-2003 09:26:40] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[14-Nov-2003 12:23:10] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard\images.zip] not saved in Unknown on line 0
+[14-Nov-2003 12:23:17] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard\images.zip] not saved in Unknown on line 0
+[14-Nov-2003 12:25:20] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard\images.zip] not saved in Unknown on line 0
+[17-Nov-2003 11:00:58] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\Ex10_02.doc] not saved in Unknown on line 0
+[18-Nov-2003 11:59:58] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[19-Nov-2003 10:35:49] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[20-Nov-2003 14:36:18] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/submissions/update_grade1.php on line 13
+[20-Nov-2003 14:36:26] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/submissions/update_grade1.php on line 13
+[20-Nov-2003 14:47:15] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/submissions/grade_assign1.php on line 39
+[21-Nov-2003 11:00:02] PHP Fatal error:  Call to undefined function:  zip_open() in /home/kathweav/public_html/class/submissions/update_grade1.php on line 42
+[21-Nov-2003 11:15:14] PHP Fatal error:  Call to undefined function:  zip_open() in /home/kathweav/public_html/class/submissions/update_grade1.php on line 43
+[21-Nov-2003 11:23:57] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/update_grade1.php on line 48
+[21-Nov-2003 11:24:17] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/update_grade1.php on line 62
+[21-Nov-2003 11:26:02] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/update_grade1.php on line 76
+[21-Nov-2003 11:29:45] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/update_grade1.php on line 76
+[21-Nov-2003 11:37:03] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/update_grade1.php on line 56
+[21-Nov-2003 12:15:59] PHP Fatal error:  Call to a member function on a non-object in /home/kathweav/public_html/class/submissions/update_grade1.php on line 49
+[21-Nov-2003 12:16:59] PHP Fatal error:  Call to a member function on a non-object in /home/kathweav/public_html/class/submissions/update_grade1.php on line 49
+[21-Nov-2003 13:01:24] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/update_grade1.php on line 53
+[21-Nov-2003 13:01:45] PHP Warning:  Missing argument 1 for get_list() in /home/kathweav/public_html/class/submissions/zip.lib.php on line 15
+[21-Nov-2003 13:02:33] PHP Warning:  implode(): Bad arguments. in /home/kathweav/public_html/class/submissions/zip.lib.php on line 55
+[21-Nov-2003 13:13:12] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/submissions/update_grade1.php on line 59
+[21-Nov-2003 13:13:44] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/submissions/update_grade1.php on line 59
+[21-Nov-2003 13:13:53] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/submissions/update_grade1.php on line 59
+[21-Nov-2003 13:14:12] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/submissions/update_grade1.php on line 59
+[21-Nov-2003 13:14:39] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/submissions/update_grade1.php on line 59
+[21-Nov-2003 13:14:47] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/submissions/update_grade1.php on line 59
+[21-Nov-2003 13:14:58] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/submissions/update_grade1.php on line 59
+[21-Nov-2003 13:15:53] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/submissions/update_grade1.php on line 60
+[21-Nov-2003 13:40:06] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/update_grade1.php on line 62
+[21-Nov-2003 13:54:58] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/studentUploadWebpage.php on line 12
+[21-Nov-2003 14:15:37] PHP Fatal error:  Call to a member function on a non-object in /home/kathweav/public_html/class/submissions/studentUploadWebpage.php on line 12
+[21-Nov-2003 14:15:49] PHP Fatal error:  Call to a member function on a non-object in /home/kathweav/public_html/class/submissions/studentUploadWebpage.php on line 12
+[21-Nov-2003 14:15:58] PHP Fatal error:  Call to a member function on a non-object in /home/kathweav/public_html/class/submissions/studentUploadWebpage.php on line 12
+[21-Nov-2003 14:16:36] PHP Fatal error:  Call to a member function on a non-object in /home/kathweav/public_html/class/submissions/studentUploadWebpage.php on line 16
+[21-Nov-2003 14:17:05] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[21-Nov-2003 14:17:05] PHP Warning:  mkdir(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 524
+[21-Nov-2003 14:17:05] PHP Warning:  mkdir(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 525
+[21-Nov-2003 14:17:05] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 526
+[21-Nov-2003 14:17:05] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 527
+[21-Nov-2003 14:17:05] PHP Fatal error:  Cannot instantiate non-existent class:  zip in /home/kathweav/public_html/class/submissions/studentUploadWebpage.php on line 24
+[21-Nov-2003 14:17:34] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[21-Nov-2003 14:17:34] PHP Fatal error:  Cannot instantiate non-existent class:  zip in /home/kathweav/public_html/class/submissions/studentUploadWebpage.php on line 27
+[21-Nov-2003 14:18:21] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:20:40] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:20:58] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:21:20] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:22:17] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:24:40] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:24:44] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:25:54] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:31:37] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:32:09] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:34:00] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:34:31] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:34:54] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:35:05] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:35:20] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:35:35] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:36:04] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:38:32] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:39:02] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:39:13] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:43:01] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/studentUploadWebpage.php on line 45
+[21-Nov-2003 14:43:29] PHP Fatal error:  Cannot instantiate non-existent class:  zip in /home/kathweav/public_html/class/submissions/studentUploadWebpage.php on line 43
+[21-Nov-2003 14:43:52] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:46:02] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:46:11] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:46:32] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:47:06] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:47:15] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:47:56] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:48:36] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:48:59] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 14:49:44] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 15:04:24] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/studentUploadWebpage.php on line 42
+[21-Nov-2003 16:04:03] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 16:04:41] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 16:04:51] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 16:04:59] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[21-Nov-2003 16:05:19] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[24-Nov-2003 18:23:29] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[25-Nov-2003 15:16:49] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[25-Nov-2003 18:41:01] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[26-Nov-2003 21:24:36] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[27-Nov-2003 00:54:46] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[27-Nov-2003 01:22:35] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[27-Nov-2003 02:21:51] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[01-Dec-2003 15:21:54] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[01-Dec-2003 15:29:03] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[01-Dec-2003 15:35:57] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[01-Dec-2003 15:36:39] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[02-Dec-2003 09:11:47] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[02-Dec-2003 11:42:13] PHP Warning:  rmdir(/home/kathweav/upload/weaverm): Directory not empty in /home/kathweav/public_html/class/submissions/studentUploadWebpage.php on line 18
+[02-Dec-2003 12:09:59] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[02-Dec-2003 12:14:52] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[02-Dec-2003 12:28:47] PHP Fatal error:  Call to undefined function:  deldir() in /home/kathweav/public_html/class/submissions/studentUploadWebpage.php on line 40
+[02-Dec-2003 12:35:10] PHP Warning:  opendir(/home/kathweav/public_html/students/martinezc/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[02-Dec-2003 12:35:10] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[02-Dec-2003 12:35:10] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[02-Dec-2003 12:35:10] PHP Warning:  rmdir(/home/kathweav/public_html/students/martinezc/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[02-Dec-2003 21:43:08] PHP Warning:  opendir(/home/kathweav/public_html/students/mitchellk/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[02-Dec-2003 21:43:09] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[02-Dec-2003 21:43:09] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[02-Dec-2003 21:43:09] PHP Warning:  rmdir(/home/kathweav/public_html/students/mitchellk/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[02-Dec-2003 21:43:09] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[02-Dec-2003 21:43:55] PHP Warning:  opendir(/home/kathweav/public_html/students/hernandezb/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[02-Dec-2003 21:43:55] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[02-Dec-2003 21:43:55] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[02-Dec-2003 21:43:55] PHP Warning:  rmdir(/home/kathweav/public_html/students/hernandezb/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[03-Dec-2003 12:06:37] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[03-Dec-2003 14:22:15] PHP Warning:  opendir(/home/kathweav/public_html/students/marinor/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[03-Dec-2003 14:22:15] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[03-Dec-2003 14:22:15] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[03-Dec-2003 14:22:15] PHP Warning:  rmdir(/home/kathweav/public_html/students/marinor/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[03-Dec-2003 15:10:16] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[03-Dec-2003 15:23:08] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[04-Dec-2003 14:47:40] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[05-Dec-2003 10:13:24] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[05-Dec-2003 12:25:32] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[05-Dec-2003 12:26:28] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[05-Dec-2003 15:33:04] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[08-Dec-2003 20:43:06] PHP Warning:  opendir(/home/kathweav/public_html/students/isholaj/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[08-Dec-2003 20:43:06] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[08-Dec-2003 20:43:06] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[08-Dec-2003 20:43:06] PHP Warning:  rmdir(/home/kathweav/public_html/students/isholaj/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[09-Dec-2003 09:26:41] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[10-Dec-2003 09:02:29] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/kathweav/public_html/class/submissions/find_student_assignments.php:13) in /home/kathweav/public_html/class/submissions/find_student_assignments.php on line 14
+[10-Dec-2003 09:02:29] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kathweav/public_html/class/submissions/find_student_assignments.php:13) in /home/kathweav/public_html/class/submissions/find_student_assignments.php on line 14
+[10-Dec-2003 09:02:36] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/kathweav/public_html/class/submissions/find_student_assignments.php:13) in /home/kathweav/public_html/class/submissions/find_student_assignments.php on line 14
+[10-Dec-2003 09:02:36] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kathweav/public_html/class/submissions/find_student_assignments.php:13) in /home/kathweav/public_html/class/submissions/find_student_assignments.php on line 14
+[10-Dec-2003 11:59:31] PHP Warning:  opendir(/home/kathweav/public_html/students/gorman-walliss/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[10-Dec-2003 11:59:31] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[10-Dec-2003 11:59:31] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[10-Dec-2003 11:59:31] PHP Warning:  rmdir(/home/kathweav/public_html/students/gorman-walliss/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[10-Dec-2003 12:13:56] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[10-Dec-2003 12:14:41] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[10-Dec-2003 12:18:50] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[10-Dec-2003 12:19:10] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[10-Dec-2003 12:19:36] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[10-Dec-2003 14:04:49] PHP Warning:  opendir(/home/kathweav/public_html/students/aguilarj/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[10-Dec-2003 14:04:49] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[10-Dec-2003 14:04:49] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[10-Dec-2003 14:04:49] PHP Warning:  rmdir(/home/kathweav/public_html/students/aguilarj/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[10-Dec-2003 23:10:58] PHP Warning:  opendir(/home/kathweav/public_html/students/mitchells/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[10-Dec-2003 23:10:58] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[10-Dec-2003 23:10:58] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[10-Dec-2003 23:10:58] PHP Warning:  rmdir(/home/kathweav/public_html/students/mitchells/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[10-Dec-2003 23:11:41] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[10-Dec-2003 23:12:04] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[10-Dec-2003 23:12:18] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[11-Dec-2003 13:00:46] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[12-Dec-2003 09:27:10] PHP Warning:  opendir(/home/kathweav/public_html/students/sylvad/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[12-Dec-2003 09:27:10] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[12-Dec-2003 09:27:10] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[12-Dec-2003 09:27:10] PHP Warning:  rmdir(/home/kathweav/public_html/students/sylvad/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[12-Dec-2003 10:14:45] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/list_teacher_record_1.php on line 22
+[12-Dec-2003 10:15:00] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/submissions/list_teacher_record_1.php on line 12
+[12-Dec-2003 12:39:16] PHP Warning:  opendir(/home/kathweav/public_html/students/estrellol/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[12-Dec-2003 12:39:16] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[12-Dec-2003 12:39:16] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[12-Dec-2003 12:39:16] PHP Warning:  rmdir(/home/kathweav/public_html/students/estrellol/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[12-Dec-2003 13:59:05] PHP Warning:  opendir(/home/kathweav/public_html/students/fernandezd/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[12-Dec-2003 13:59:05] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[12-Dec-2003 13:59:05] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[12-Dec-2003 13:59:05] PHP Warning:  rmdir(/home/kathweav/public_html/students/fernandezd/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[12-Dec-2003 14:02:06] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[12-Dec-2003 14:03:20] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[15-Dec-2003 11:41:09] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[15-Dec-2003 11:42:44] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[15-Dec-2003 12:10:59] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[15-Dec-2003 12:11:54] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[15-Dec-2003 12:26:46] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[15-Dec-2003 13:48:10] PHP Warning:  opendir(/home/kathweav/public_html/students/moralesc/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[15-Dec-2003 13:48:10] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[15-Dec-2003 13:48:10] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[15-Dec-2003 13:48:10] PHP Warning:  rmdir(/home/kathweav/public_html/students/moralesc/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[15-Dec-2003 13:55:53] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[15-Dec-2003 13:57:54] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\wintercard.zip] not saved in Unknown on line 0
+[15-Dec-2003 15:33:51] PHP Warning:  opendir(/home/kathweav/public_html/students/garciad/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[15-Dec-2003 15:33:51] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[15-Dec-2003 15:33:51] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[15-Dec-2003 15:33:51] PHP Warning:  rmdir(/home/kathweav/public_html/students/garciad/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[15-Dec-2003 19:10:33] PHP Warning:  opendir(/home/kathweav/public_html/students/crisseyj/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[15-Dec-2003 19:10:33] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[15-Dec-2003 19:10:33] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[15-Dec-2003 19:10:33] PHP Warning:  rmdir(/home/kathweav/public_html/students/crisseyj/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[18-Dec-2003 09:40:27] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 09:46:53] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 10:32:23] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 10:34:32] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 10:35:23] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 10:36:38] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 10:37:41] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 10:39:17] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 10:49:12] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 10:57:07] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 11:02:19] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 11:10:56] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 11:10:58] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 11:14:14] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 11:28:16] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 11:36:44] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 11:50:50] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 11:54:53] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 13:17:51] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 13:39:24] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 13:40:10] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 13:47:15] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[18-Dec-2003 13:50:10] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[19-Dec-2003 09:31:04] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 09:59:20] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 10:04:44] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 10:13:51] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 10:29:25] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 10:32:16] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 10:32:24] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 10:33:11] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 10:36:57] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 10:37:17] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 10:45:55] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 10:47:01] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 10:53:43] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 11:00:07] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 11:24:15] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 11:31:17] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 12:18:10] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 12:18:16] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 12:20:43] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 12:20:58] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 12:21:14] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 12:21:50] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 12:23:04] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 12:24:13] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 13:45:01] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 13:52:39] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 13:53:06] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 13:53:30] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 13:56:37] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 13:56:44] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 13:59:24] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 15:40:51] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 15:41:21] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Jan-2004 15:41:43] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 09:33:32] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 09:43:31] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 09:52:28] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 10:10:39] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 10:14:27] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 10:15:52] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 10:26:06] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 10:35:16] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 10:46:09] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 11:15:32] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 11:15:56] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 11:19:59] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 11:30:54] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 12:15:07] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 12:25:53] PHP Warning:  opendir(/home/kathweav/public_html/students/hallb/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[07-Jan-2004 12:25:53] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[07-Jan-2004 12:25:53] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[07-Jan-2004 12:25:53] PHP Warning:  rmdir(/home/kathweav/public_html/students/hallb/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[07-Jan-2004 12:38:49] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 13:39:31] PHP Warning:  opendir(/home/kathweav/public_html/students/garcias/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[07-Jan-2004 13:39:31] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[07-Jan-2004 13:39:31] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[07-Jan-2004 13:39:31] PHP Warning:  rmdir(/home/kathweav/public_html/students/garcias/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[07-Jan-2004 13:49:24] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[07-Jan-2004 14:50:07] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[08-Jan-2004 09:43:40] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[08-Jan-2004 10:19:12] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[08-Jan-2004 10:29:10] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[08-Jan-2004 10:31:32] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[08-Jan-2004 10:58:22] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[08-Jan-2004 11:15:03] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[08-Jan-2004 11:17:04] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[08-Jan-2004 11:20:56] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[08-Jan-2004 14:22:52] PHP Warning:  opendir(/home/kathweav/public_html/students/gentlemanm/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[08-Jan-2004 14:22:52] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[08-Jan-2004 14:22:52] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[08-Jan-2004 14:22:52] PHP Warning:  rmdir(/home/kathweav/public_html/students/gentlemanm/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[08-Jan-2004 14:23:27] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[08-Jan-2004 14:26:14] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[08-Jan-2004 14:39:24] PHP Warning:  opendir(/home/kathweav/public_html/students/anthonyj/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[08-Jan-2004 14:39:24] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[08-Jan-2004 14:39:24] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[08-Jan-2004 14:39:24] PHP Warning:  rmdir(/home/kathweav/public_html/students/anthonyj/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[08-Jan-2004 14:39:24] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[08-Jan-2004 14:54:58] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[08-Jan-2004 15:40:18] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[09-Jan-2004 09:28:18] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[09-Jan-2004 10:55:04] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[12-Jan-2004 12:38:56] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[12-Jan-2004 14:28:56] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[12-Jan-2004 15:42:39] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[12-Jan-2004 15:59:17] PHP Warning:  opendir(/home/kathweav/public_html/students/landoss/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[12-Jan-2004 15:59:17] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[12-Jan-2004 15:59:17] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[12-Jan-2004 15:59:17] PHP Warning:  rmdir(/home/kathweav/public_html/students/landoss/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[13-Jan-2004 10:15:05] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[13-Jan-2004 10:35:09] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[13-Jan-2004 14:23:04] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[14-Jan-2004 15:45:43] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[15-Jan-2004 10:59:39] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[15-Jan-2004 11:06:00] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[20-Jan-2004 14:13:28] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/list_cs_recorded.php on line 8
+[21-Jan-2004 10:52:22] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[21-Jan-2004 10:57:07] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[25-Jan-2004 18:47:41] PHP Warning:  opendir(/home/kathweav/public_html/students/gonzales/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[25-Jan-2004 18:47:41] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[25-Jan-2004 18:47:41] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[25-Jan-2004 18:47:41] PHP Warning:  rmdir(/home/kathweav/public_html/students/gonzales/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[29-Jan-2004 10:46:14] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[30-Jan-2004 10:57:29] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[02-Feb-2004 13:48:46] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpx2BNPN' to '/home/kathweav/upload/darrowb/frontpage.zip' in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 449
+[02-Feb-2004 13:53:06] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOiWaTx' to '/home/kathweav/upload/aguilarj/Front Page.zip' in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 449
+[02-Feb-2004 14:24:55] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[02-Feb-2004 14:25:08] PHP Warning:  opendir(/home/kathweav/public_html/students/darrowb/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[02-Feb-2004 14:25:08] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissi[03-Feb-2004 14:48:13] PHP Warning:  opendir(/home/kathweav/public_html/students/darrowb/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[03-Feb-2004 14:48:13] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[03-Feb-2004 14:48:13] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[03-Feb-2004 14:48:13] PHP Warning:  rmdir(/home/kathweav/public_html/students/darrowb/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[03-Feb-2004 14:51:58] PHP Warning:  opendir(/home/kathweav/public_html/students/hernandezg/): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[03-Feb-2004 14:51:58] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[03-Feb-2004 14:51:58] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[03-Feb-2004 14:51:58] PHP Warning:  rmdir(/home/kathweav/public_html/students/hernandezg/): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[03-Feb-2004 14:51:58] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[03-Feb-2004 14:52:57] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[03-Feb-2004 15:39:06] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[03-Feb-2004 22:46:08] PHP Warning:  opendir(Sampler): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[03-Feb-2004 22:46:08] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[03-Feb-2004 22:46:08] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[03-Feb-2004 22:46:08] PHP Warning:  rmdir(Sampler): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[03-Feb-2004 22:48:02] PHP Warning:  opendir(/home/kathweav/public_html/students/gonzalezm/Sampler.zip): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[03-Feb-2004 22:48:02] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[03-Feb-2004 22:48:02] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[03-Feb-2004 22:48:02] PHP Warning:  rmdir(/home/kathweav/public_html/students/gonzalezm/Sampler.zip): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[03-Feb-2004 22:53:57] PHP Warning:  opendir(/home/kathweav/public_html/students/gonzalezm/Sampler): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[03-Feb-2004 22:53:57] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[03-Feb-2004 22:53:57] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[03-Feb-2004 22:53:57] PHP Warning:  rmdir(/home/kathweav/public_html/students/gonzalezm/Sampler): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[03-Feb-2004 22:55:29] PHP Warning:  opendir(/home/kathweav/public_html/students/gonzalezm/Sampler): failed to open dir: No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 3
+[03-Feb-2004 22:55:29] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 4
+[03-Feb-2004 22:55:29] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home/kathweav/public_html/class/submissions/deldir.php on line 11
+[03-Feb-2004 22:55:29] PHP Warning:  rmdir(/home/kathweav/public_html/students/gonzalezm/Sampler): No such file or directory in /home/kathweav/public_html/class/submissions/deldir.php on line 12
+[03-Feb-2004 22:55:29] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[03-Feb-2004 23:12:25] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[03-Feb-2004 23:28:54] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[03-Feb-2004 23:30:19] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[04-Feb-2004 11:02:30] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[06-Feb-2004 13:03:24] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/newupload_assignment.php on line 18
+[06-Feb-2004 13:03:57] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/newupload_assignment.php on line 17
+[06-Feb-2004 13:04:14] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/newupload_assignment.php on line 122
+[06-Feb-2004 13:56:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/kathweav/public_html/class/submissions/newupload_assignment.php on line 32
+[06-Feb-2004 13:57:55] PHP Parse error:  parse error, expecting `','' or `';'' in /home/kathweav/public_html/class/submissions/newupload_assignment.php on line 32
+[06-Feb-2004 14:32:54] PHP Fatal error:  Call to undefined function:  list_assignment() in /home/kathweav/public_html/class/submissions/newupload_assignment.php on line 86
+[06-Feb-2004 14:57:05] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/list_user_assign.php on line 40
+[09-Feb-2004 11:29:48] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 71
+[09-Feb-2004 11:29:48] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 73
+[09-Feb-2004 11:29:48] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 87
+[09-Feb-2004 11:31:03] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 71
+[09-Feb-2004 11:31:03] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 73
+[09-Feb-2004 11:31:03] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 87
+[09-Feb-2004 11:32:08] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 62
+[09-Feb-2004 11:32:08] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 64
+[09-Feb-2004 11:32:08] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 78
+[09-Feb-2004 11:32:25] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 62
+[09-Feb-2004 11:32:25] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 64
+[09-Feb-2004 11:32:25] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 78
+[09-Feb-2004 11:32:46] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 62
+[09-Feb-2004 11:32:46] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 64
+[09-Feb-2004 11:32:46] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 78
+[09-Feb-2004 11:32:50] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 62
+[09-Feb-2004 11:32:50] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 64
+[09-Feb-2004 11:32:50] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 78
+[09-Feb-2004 11:33:01] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 62
+[09-Feb-2004 11:33:01] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 64
+[09-Feb-2004 11:33:01] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 78
+[09-Feb-2004 11:33:11] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 62
+[09-Feb-2004 11:33:11] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 64
+[09-Feb-2004 11:33:11] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 78
+[09-Feb-2004 11:33:13] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 62
+[09-Feb-2004 11:33:13] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 64
+[09-Feb-2004 11:33:13] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 78
+[09-Feb-2004 11:33:23] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 62
+[09-Feb-2004 11:33:23] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 64
+[09-Feb-2004 11:33:23] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 78
+[09-Feb-2004 11:33:26] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 62
+[09-Feb-2004 11:33:26] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 64
+[09-Feb-2004 11:33:26] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 78
+[09-Feb-2004 11:33:56] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 62
+[09-Feb-2004 11:33:56] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 64
+[09-Feb-2004 11:33:56] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 78
+[09-Feb-2004 11:34:00] PHP Warning:  Division by zero in /home/kathweav/public_html/class/submissions/list_teacher_record.php on line 60
+[10-Feb-2004 15:34:02] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[11-Feb-2004 12:10:08] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[11-Feb-2004 12:20:46] PHP Parse error:  parse error in /home/kathweav/public_html/class/submissions/grade_assign.php on line 83
+[11-Feb-2004 12:23:41] PHP Parse error:  parse error in /home/kathweav/public_html/class/header.php on line 6
+[11-Feb-2004 12:57:06] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[12-Feb-2004 10:27:55] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[17-Feb-2004 10:27:15] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[19-Feb-2004 15:41:31] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[20-Feb-2004 15:51:19] PHP Warning:  upload_max_filesize of 2097152 bytes exceeded - file [upload_file[]=H:\Sampler.zip] not saved in Unknown on line 0
+[22-Feb-2004 22:18:45] PHP Warning:  unpack(): Type v: not enough input, need 2, have 0 in /home/kathweav/public_html/class/submissions/zip.lib.php on line 244
+[27-Feb-2004 12:43:30] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[01-Mar-2004 14:22:38] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[01-Mar-2004 15:16:09] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[02-Mar-2004 12:48:15] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382
+[12-Mar-2004 14:10:45] PHP Warning:  chmod(): No such file or directory in /home/kathweav/public_html/class/submissions/class_upload_files.php on line 382

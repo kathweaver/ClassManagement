@@ -1,0 +1,56 @@
+<html>
+<head>
+<title>Add Lesson</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<form name="form1" action="add_lesson.php" method=POST>
+  <p align="center">Add Lesson</p>
+  <table width="75%" border="0">
+    <tr> 
+      <td width="23%">Class</td>
+      <td width="77%"><select name="class" size="1">
+          <option value="APCSI">APCSI</option>
+          <option value="APCSII">APCSII</option>
+          <option value="CS">CS</option>
+          <option value="PreAP">PreAP</option>
+          <option value="Webmastering">Webmastering</option>
+          <option value="BCIS">BCIS</option>
+        </select></td>
+    </tr>
+    <tr> 
+      <td>Six Weeks</td>
+      <td><input name="six_weeks" type="text" id="six_weeks" size="5" maxlength="1"></td>
+    </tr>
+    <tr> 
+      <td height="24">Day</td>
+      <td><input name="day" type="text" id="day" size="5" maxlength="2"></td>
+    </tr>
+    <tr> 
+      <td>Order</td>
+      <td><input name="dayorder" type="text" id="dayorder" size="5" maxlength="2"></td>
+    </tr>
+    <tr> 
+      <td>Due Date: </td>
+      <td><input type="text" name="duedate"></td>
+    </tr>
+    <td>Assignment Index</td>
+    <td><input name="day2" type="text" id="day2" size="10" maxlength="10"></td>
+    </tr>
+    <tr> 
+      <td>&nbsp;</td>
+      <td><input type="submit" name="submit" value="Add">
+        <input type="submit" name="submit" value="List Assignments"> </td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+  <p>&nbsp; </p>
+  </form>
+  <a href="http://www.kweaver.net/class/login_success.php">Main Menu</a>
+</body>
+</html>

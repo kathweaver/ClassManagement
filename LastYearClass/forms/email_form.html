@@ -1,0 +1,23 @@
+<h1>Contact 
+  <?=$username?>
+</h1>
+<form name="form1" method="post" action="<? $_SERVER['file:///C|/unzipped/email_tutorial/email/PHP_SELF']; ?>">
+  <table width="60%" border="0" align="center" cellpadding="4" cellspacing="0">
+    <tr align="left" valign="top"> 
+      <td nowrap><strong>Subject</strong></td>
+      <td><input name="subject" type="text" id="subject" size="60"></td>
+    </tr>
+    <tr align="left" valign="top"> 
+      <td nowrap><strong>Message</strong></td>
+      <td><textarea name="message" cols="55" rows="15" id="message"><?=$message?></textarea></td>
+    </tr>
+    <tr align="left" valign="top">
+      <td>&nbsp;</td>
+      <td><div align="right">
+          <input name="userid" type="hidden" id="userid" value="<?=$userid?>">
+          <input name="cmd" type="hidden" id="cmd" value="validate_form">
+          <input type="submit" name="Submit" value="Send Email &gt;&gt;">
+        </div></td>
+    </tr>
+  </table>
+</form>

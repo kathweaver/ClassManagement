@@ -1,0 +1,6 @@
+[05-Aug-2003 17:09:33] PHP Warning:  session_start(): open(/tmp/sess_6332149f9752b9a8ba906458a5ad191a, O_RDWR) failed: Permission denied (13) in /home/kathweav/public_html/class/Days/list_days.php on line 2
+[05-Aug-2003 17:09:33] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/kathweav/public_html/class/Days/list_days.php:2) in /home/kathweav/public_html/class/Days/list_days.php on line 2
+[05-Aug-2003 17:09:33] PHP Warning:  Unknown(): open(/tmp/sess_6332149f9752b9a8ba906458a5ad191a, O_RDWR) failed: Permission denied (13) in Unknown on line 0
+[05-Aug-2003 17:09:33] PHP Warning:  Unknown(): Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[05-Aug-2003 20:20:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kathweav/public_html/class/Days/daypost.php:37) in /home/kathweav/public_html/class/Days/daypost.php on line 47
+[07-Aug-2003 11:15:35] PHP Parse error:  parse error in /home/kathweav/public_html/class/Days/daylist.php on line 33
